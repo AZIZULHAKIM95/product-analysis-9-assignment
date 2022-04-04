@@ -6,7 +6,7 @@ import Reviews from './Component/Reviews/Reviews';
 import Dashboard from './Component/Dashboard/Dashboard';
 import Blogs from './Component/Blogs/Blogs';
 import About from './Component/About/About';
-import Header from './Component/NotFound/Header/Header';
+import Header from './Component/Header/Header';
 
 
 function App() {
