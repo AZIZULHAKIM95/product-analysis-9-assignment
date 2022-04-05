@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Mathew Buzzi",
+    "comment": "Amazing build quality, design, and updagradability.",
+    "rating": "Rating: 4.5 out of 5"
+  },
+  {
+    "id": "2",
+    "name": "Edward G.Dorman",
+    "comment": "Ah, yes. A laptop that can run like a thermo-neuclear explosion.",
+    "rating": "Rating: 5 out of 5"
+  },
+  {
+    "id": "3",
+    "name": "Kennath F.Smith",
+    "comment": "The surface laptop part sitution really much better than the M1 macs.",
+    "rating": "Rating: 5 out of 5"
+  },
+  {
+    "id": "4",
+    "name": "Will Jonas",
+    "comment": "There service are much awesome & very very fast. This is hilariously chunky.",
+    "rating": "Rating: 4.5 out of 5"
+  },
+  {
+    "id": "5",
+    "name": "Pamela",
+    "comment": "This is amazing. There laptop are lighter and much much cheaper.",
+    "rating": "Rating: 5 out of 5"
+  },
+  {
+    "id": "6",
+    "name": "Dana Ward",
+    "comment": "In showroom their services are very fast but in online sometimes they are delay.",
+    "rating": "Rating: 4 out of 5"
+  }
+]
