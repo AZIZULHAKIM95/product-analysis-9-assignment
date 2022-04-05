@@ -3,7 +3,6 @@ import { Button, CardGroup } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useReviews from '../../Hooks/useReviews';
 import pic from "../Image/jkgf.png"
-import Reviews from '../Reviews/Reviews';
 import SReview from '../SReview/SReview';
 
 const Home = () => {
@@ -29,7 +28,7 @@ const Home = () => {
             </div>
 
             <div>
-                <h1>CUSTOMER REVIEWS</h1>
+                <h1>CUSTOMER REVIEWS (3)</h1>
                 <CardGroup>
                     {
                         reviews.slice(0, 3).map(review => <SReview
@@ -44,7 +43,7 @@ const Home = () => {
 
             <div className='m-5'>
                 <Link to='/reviews'>
-                    <Button>Show All Comments</Button>
+                    <Button>SHOW ALL COMMENTS</Button>
                 </Link>
             </div>
         </div>

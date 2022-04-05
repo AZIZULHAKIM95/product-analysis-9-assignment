@@ -1,38 +1,44 @@
 [
   {
     "id": "1",
+    "img": "https://mpng.subpng.com/20180329/zue/kisspng-computer-icons-user-profile-person-5abd85306ff7f7.0592226715223698404586.jpg",
     "name": "Mathew Buzzi",
-    "comment": "Amazing build quality, design, and updagradability.",
-    "rating": "Rating: 4.5 out of 5"
+    "comment": "Amazing build quality, design, and updagradability. Very Trusted site.",
+    "rating": "Rating: 4.5 / 5"
   },
   {
     "id": "2",
+    "img": "https://www.clipartkey.com/mpngs/m/102-1029067_student-flat-icon-www-pixshark-com-images-galleries.png",
     "name": "Edward G.Dorman",
     "comment": "Ah, yes. A laptop that can run like a thermo-neuclear explosion.",
-    "rating": "Rating: 5 out of 5"
+    "rating": "Rating: 5 / 5"
   },
   {
     "id": "3",
+    "img": "https://i.dlpng.com/static/png/7003959_preview.png",
     "name": "Kennath F.Smith",
     "comment": "The surface laptop part sitution really much better than the M1 macs.",
-    "rating": "Rating: 5 out of 5"
+    "rating": "Rating: 5 / 5"
   },
   {
     "id": "4",
+    "img": "https://www.pinclipart.com/picdir/middle/165-1653686_female-user-icon-png-download-user-colorful-icon.png",
     "name": "Will Jonas",
     "comment": "There service are much awesome & very very fast. This is hilariously chunky.",
-    "rating": "Rating: 4.5 out of 5"
+    "rating": "Rating: 4.5 / 5"
   },
   {
     "id": "5",
+    "img": "https://cdn-icons-png.flaticon.com/512/190/190664.png",
     "name": "Pamela",
     "comment": "This is amazing. There laptop are lighter and much much cheaper.",
-    "rating": "Rating: 5 out of 5"
+    "rating": "Rating: 5 / 5"
   },
   {
     "id": "6",
+    "img": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
     "name": "Dana Ward",
     "comment": "In showroom their services are very fast but in online sometimes they are delay.",
-    "rating": "Rating: 4 out of 5"
+    "rating": "Rating: 4 / 5"
   }
 ]

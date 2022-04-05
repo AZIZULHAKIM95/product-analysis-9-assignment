@@ -7,7 +7,12 @@ const Reviews = () => {
     const [reviews, setReviews] = useReviews()
 
     return (
-        <div>
+        <div className='row mt-5'>
+            <br />
+            <br />
+            <h1>CUSTOMERS REVIEWS</h1>
+            <br />
+            <br />
             <CardGroup>
                 {
                     reviews.map(review => <SReview
