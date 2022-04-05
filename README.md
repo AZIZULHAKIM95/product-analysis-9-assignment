@@ -1,6 +1,6 @@
 # Product Analysis Website
 
-This project is here:  [https://cheerful-starlight-6f44ef.netlify.app/reviews]
+This project is here:  [https://cheerful-starlight-6f44ef.netlify.app/]
 
 ## Shadow Computer Website
 
